@@ -30,7 +30,7 @@ redirect_from:
 - *2023.07.15*：&nbsp;🎉🎉 祝贺柯智慧同学一篇关于边缘计算协作缓存的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
 - *2023.06.20*：&nbsp;🎉🎉 祝贺王伟旭同学一篇关于隐私保护的服务迁移论文被IEEE Internet of Things Journal期刊（中科院一区）接收！Congratulations!
 - *2023.06.08*：&nbsp;🎉🎉 祝贺曾嘉欣同学一篇关于物联网中360度视频传输的论文被IEEE Internet of Things Journal期刊（中科院一区）接收！Congratulations!
-- *2023.03.31*：&nbsp;🎉🎉 祝贺葛树鑫同学一篇关于车联网中共乘调度的论文被IWQoS 2023录取！Congratulations！
+- *2023.03.31*：&nbsp;🎉🎉 祝贺葛树鑫同学一篇关于车联网中共乘调度的论文被IWQoS 2023会议（CCF B）录取！Congratulations！
 - *2022.09.30*：&nbsp;🎉🎉 祝贺李玉鹏同学的车联网中分布式联邦学习的论文获得CCF推荐C类会议APNOMS 2022最佳学生论文奖！Congratulations！
 
 

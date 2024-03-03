@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "周晓波教授的个人主页"
-description              : "教授、博士生导师"
+description              : "天津大学智能与计算学部"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,7 +26,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "周晓波"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "天津大学智能与计算学部"
+  bio              : "教授、博士生导师"
   location         : "天津市津南区雅观路135号55楼"
   employer         :
   pubmed           : 
