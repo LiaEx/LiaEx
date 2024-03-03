@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "新闻动态"
-    url: "/#-news"
+    url: "/#-新闻动态"
 
-  - title: "Publications"
+  - title: "教育及工作背景"
+    url: "/#-教育及工作背景"
+
+  - title: "科研项目"
+    url: "/#-internships"
+
+  - title: "论文专著"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
+  - title: "获奖及荣誉"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "专利"
+    url: "/#-patents"
