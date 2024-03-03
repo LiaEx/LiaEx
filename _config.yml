@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "周晓波教授的个人主页"
-description              : "您好 "
+description              : "教授、博士生导师"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -30,8 +30,8 @@ author:
   location         : "天津市津南区雅观路135号55楼"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://https://scholar.google.com/citations?user=oA7bk2AAAAAJ&hl=en&oi=ao"
+  email            : "xiaobo.zhou@tju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -47,7 +47,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/13/6395-3.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
