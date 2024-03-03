@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "新闻动态"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "教育及工作背景"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "科研项目"
     url: "/#-internships"
