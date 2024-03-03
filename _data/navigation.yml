@@ -10,13 +10,15 @@ main:
     url: "/#educations"
 
   - title: "科研项目"
-    url: "/#-internships"
+    url: "/#projects"
 
   - title: "论文专著"
-    url: "/#-publications"
-
-  - title: "获奖及荣誉"
-    url: "/#-honors-and-awards"
+    url: "/#publications"
 
   - title: "专利"
-    url: "/#-patents"
+    url: "/#patents"
+
+  - title: "获奖及荣誉"
+    url: "/#honors-and-awards"
+
+  
