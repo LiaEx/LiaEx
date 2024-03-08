@@ -1,6 +1,7 @@
 ---
 title: ""
 permalink: /publications/
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /publications/
