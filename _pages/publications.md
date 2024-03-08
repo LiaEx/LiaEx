@@ -1,5 +1,5 @@
 ---
-title: "publications.html"
+title: ""
 permalink: /publications/
 #excerpt: ""
 author_profile: true
