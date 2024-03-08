@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "个人简介"
-    url: /about.html
+    url: /about/
 
   - title: "新闻动态"
     url: "/#news"
@@ -13,7 +13,7 @@ main:
     url: "/#projects"
 
   - title: "论文专著"
-    url: /publications.html
+    url: /publications/
 
   - title: "专利"
     url: "/#patents"
