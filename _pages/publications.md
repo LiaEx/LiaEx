@@ -1,5 +1,5 @@
 ---
-layout: compress
+#layout: compress
 title: ""
 permalink: /publications/
 excerpt: ""
