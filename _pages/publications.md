@@ -1,8 +1,10 @@
 ---
-layout: default
 title: ""
 permalink: /publications/
 author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
