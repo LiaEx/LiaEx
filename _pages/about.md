@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "about.html"
 excerpt: ""
 author_profile: true
 redirect_from: 
