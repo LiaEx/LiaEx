@@ -1,6 +1,6 @@
 ---
 title: "publications"
-permalink: /publications/
+permalink: /
 excerpt: ""
 author_profile: true
 #redirect_from: 
