@@ -13,7 +13,7 @@ main:
     url: "/#projects"
 
   - title: "论文专著"
-    url: /publications/
+    url: /publications.html
 
   - title: "专利"
     url: "/#patents"
